@@ -30,7 +30,7 @@
   
 <head>
     <style>
-        h2 {
+        h {
             color: red;
         }
     </style>
@@ -38,7 +38,7 @@
   
 <body>
     <center>
-        <h2>Welcome  to my Wonderful World</h2>
+        <h1>Welcome  to my Wonderful World</h1>
   
         <p>
 <?php 
