@@ -17,8 +17,7 @@
             <?php 
             echo "This is PHP code inside html";
             echo " This is also another php";
-            echo "<h1> hello how aru uuuu<h1>";
-            echo "<h1> today is very rainy<h1>";
+           
             ?>
         </h2>
     </center>
