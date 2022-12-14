@@ -9,5 +9,3 @@
 <body>
     <?=date('h:i:s A');
     ?>
-</body>
-</html>
