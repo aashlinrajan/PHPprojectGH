@@ -17,7 +17,7 @@
             <?php 
             echo "This is PHP code inside html";
             echo " This is also another php";
-            echo " hello how aru uuuu";
+            
             ?>
         </h2>
     </center>
