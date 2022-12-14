@@ -8,8 +8,7 @@
 </head>
 <body>
     <?php
-    echo date('h:i:s A');
-    echo date('h:i:s A');
+    echo date('h:i:s A')
     ?>
 </body>
 </html>
