@@ -46,7 +46,7 @@ echo "Complete <strong>Portal</strong> for Geeks."
 ?>
         <br><br>
         <?php
-        echo 'Explore, my world and enjoy it heart fully.'
+        echo 'Explore, my world and enjoy it .'
         ?>
         </p>
     </center>
