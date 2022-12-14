@@ -31,14 +31,14 @@
 <head>
     <style>
         h1 {
-            color: red;
+            color: green;
         }
     </style>
 </head>
   
 <body>
     <center>
-        <h1>Welcome  to my Wonderful World</h1>
+        <h1>Welcome </h1>
   
         <p>
 <?php 

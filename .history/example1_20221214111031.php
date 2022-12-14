@@ -25,20 +25,20 @@
 </body>
   
 </html>
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
   
 <head>
     <style>
         h1 {
-            color: red;
+            color: green;
         }
     </style>
 </head>
   
 <body>
     <center>
-        <h1>Welcome  to my Wonderful World</h1>
+        <h1>Welcome To GFG</h1>
   
         <p>
 <?php 

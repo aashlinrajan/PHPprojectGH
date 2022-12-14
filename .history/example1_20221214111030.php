@@ -25,31 +25,3 @@
 </body>
   
 </html>
-<!DOCTYPE html>
-<html>
-  
-<head>
-    <style>
-        h1 {
-            color: red;
-        }
-    </style>
-</head>
-  
-<body>
-    <center>
-        <h1>Welcome  to my Wonderful World</h1>
-  
-        <p>
-<?php 
-echo "Complete <strong>Portal</strong> for Geeks."
-?>
-        <br><br>
-        <?php
-        echo 'Explore, learn and grow.'
-        ?>
-        </p>
-    </center>
-</body>
-  
-</html>
